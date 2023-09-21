@@ -29,5 +29,3 @@
 <p>&nbsp;<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=muhammadimran7808&show_icons=true&locale=en&layout=compact" alt="muhammadimran7808" /></p>
 
 <p>&nbsp;<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=muhammadimran7808&show_icons=true&locale=en" alt="muhammadimran7808" /></p>
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadimran7808&" alt="muhammadimran7808 streak" /></p>
